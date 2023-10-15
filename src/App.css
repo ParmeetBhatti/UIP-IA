@@ -1,0 +1,14 @@
+
+.cardstyle{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-top: 5%;
+}
+
+.internalcard{
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
